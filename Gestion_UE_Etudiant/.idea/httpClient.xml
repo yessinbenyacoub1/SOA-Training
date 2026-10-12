@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HttpClientEndpointsTabState">
+    <option name="requestToText" value="&lt;CachedHttpClientTabRequests&gt;&#10;  &lt;entry key=&quot;9ceca8e61fba34eaaa60ae7984b476f7a29eb3d7&quot; value=&quot;###&amp;#10;GET http://localhost/api/hello/hi&quot; /&gt;&#10;  &lt;entry key=&quot;a8b2d7af6b028f8e7a638c23d99156b5483a1764&quot; value=&quot;###&amp;#10;DELETE http://localhost/api/ue/list/Delete?&amp;#10;    code={{$random.integer(100)}}&quot; /&gt;&#10;  &lt;entry key=&quot;609753f7908e0a51eef77e066991885442b052fa&quot; value=&quot;###&amp;#10;GET http://localhost/api/hello/{{name}}&quot; /&gt;&#10;&lt;/CachedHttpClientTabRequests&gt;" />
+  </component>
+</project>
